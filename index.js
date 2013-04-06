@@ -61,4 +61,3 @@ module.exports = {
 	disable: disable,
 	auto: auto
 };
-auto();
