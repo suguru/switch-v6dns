@@ -1,0 +1,20 @@
+{
+  "name": "switch-v6dns",
+  "version": "0.1.0",
+  "description": "Use dns to use IPV6 family in dns.resolve().",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suguru/force-v6dns"
+  },
+  "keywords": [
+    "ipv6",
+    "dns",
+    "net"
+  ],
+  "author": "Suguru Namura",
+  "license": "MIT"
+}
